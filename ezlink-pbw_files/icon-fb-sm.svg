@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="16" viewBox="0 0 10 16">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="10" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M6.314,6.464l.319-2.08h-2V3.035A1.04,1.04,0,0,1,5.81,1.911h.907V.141A11.063,11.063,0,0,0,5.107,0,2.539,2.539,0,0,0,2.39,2.8V4.384H.563v2.08H2.39v5.028H4.638V6.464Z" transform="translate(1.438 2)" fill="#fff"/>
+  </g>
+</svg>

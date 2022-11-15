@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <g id="Icon_feather-instagram" data-name="Icon feather-instagram" transform="translate(1.951 1.951)">
+      <path id="Path_1249" data-name="Path 1249" d="M3.672,1.049H8.918a2.623,2.623,0,0,1,2.623,2.623V8.918a2.623,2.623,0,0,1-2.623,2.623H3.672A2.623,2.623,0,0,1,1.049,8.918V3.672A2.623,2.623,0,0,1,3.672,1.049Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.049"/>
+      <path id="Path_1250" data-name="Path 1250" d="M8.393,5.965A2.1,2.1,0,1,1,6.625,4.2,2.1,2.1,0,0,1,8.393,5.965Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.049"/>
+      <path id="Path_1251" data-name="Path 1251" d="M9.18,3.41h0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.049"/>
+    </g>
+  </g>
+</svg>

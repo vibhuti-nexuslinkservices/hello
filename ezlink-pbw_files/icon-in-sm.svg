@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <path id="Icon_awesome-linkedin-in" data-name="Icon awesome-linkedin-in" d="M2.466,11.016H.182V3.661H2.466ZM1.323,2.658A1.329,1.329,0,1,1,2.645,1.323,1.334,1.334,0,0,1,1.323,2.658Zm9.691,8.358H8.735V7.436c0-.853-.017-1.948-1.187-1.948-1.187,0-1.369.927-1.369,1.886v3.642H3.9V3.661h2.19v1h.032A2.4,2.4,0,0,1,8.28,3.477c2.311,0,2.736,1.522,2.736,3.5v4.04Z" transform="translate(2 2)" fill="#fff"/>
+  </g>
+</svg>
